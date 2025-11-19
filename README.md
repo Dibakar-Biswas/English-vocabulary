@@ -1,3 +1,21 @@
+Based on the webpage content, here is a description of the site:
+
+Title: English Janala (English Window)
+
+Purpose: It is an educational platform designed to help users learn and improve their English vocabulary. The interface specifically targets Bengali speakers, using Bengali text to guide users through the learning process.
+
+Key Features:
+
+Interactive Lessons: The site promotes an interactive learning approach to take users' skills to the next level.
+
+Vocabulary Focus: There is a dedicated section titled "Let's Learn Vocabularies."
+
+User Interface: The page features a clean layout with a "Get Started" button, a search function, and a lesson selection area (which currently prompts the user to select a lesson).
+
+Visuals: It includes a logo and illustrations (such as a student) to create an engaging learning environment.
+
+In essence, it serves as a digital tool for Bengali speakers to easily start their English language learning journey.
+
 # ENGLISH <img width="25px" src="./assets/logo.png" /> JANALA
 
 ---
