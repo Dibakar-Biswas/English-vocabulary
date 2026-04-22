@@ -16,7 +16,7 @@ Visuals: It includes a logo and illustrations (such as a student) to create an e
 
 In essence, it serves as a digital tool for Bengali speakers to easily start their English language learning journey.
 
-# ENGLISH <img width="25px" src="./assets/logo.png" /> JANALA
+# ENGLISH <img width="25px" src="./assets/logo.png" /> JANALA.
 
 ---
 
